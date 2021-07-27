@@ -1,2 +1,2 @@
 # REGex-Intern
-Internship tasks and projects on Machine Learning and Deep Learning
+Machine Learning and Deep LearningInternship tasks and projects 
